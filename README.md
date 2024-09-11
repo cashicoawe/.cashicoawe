@@ -3,5 +3,5 @@
 学習記録  
 情報の信頼性について保証しません
 
-learning record  
+Learning records  
 No warranty as to reliability of information.
